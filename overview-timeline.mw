@@ -3,6 +3,12 @@ professor: Rodriquez
 subject: Geschiedenis van de Nieuwste Tijd 2023-24 KUL
 
 section Political
+group Oorlogen
+1904-1905: Japans-Russische Oorlog om Mantsjoerije
+endGroup
 section Socio-Economic
+group Achtergrond
+1920: eerste vrouwen toegelaten voor studie aan KUL
+endGroup
 section Culture
 
