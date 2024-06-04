@@ -1,4 +1,5 @@
-# Geschiedenis Nieuwste Tijd
+# Introles
+
 ## Approach Values
 - begripsgericht
     - verbanden
@@ -62,4 +63,45 @@
 - bekijk zeker ook het discussieforum en de q&a
 ## Capita Selecta
 - enkel verplicht voor studenten 6 studiepunten
-[31:09]
+- thema's:
+    - Historisch onderozke en bias
+    - Franse Revolutie en Napoleon
+    - Belgische radicalen (republikeinen)
+    Historische cultuur en nationalisme
+    Oorlog en gender
+    Fascisme in Italië
+## Exameninfo
+- Twee hoofdvragen
+    - 8 punten/vraag
+    - 1 vd vragen komt uit de voorbeeldvragen
+    - brede periode
+    - strenge beoordeling voor voorbeeldvraag
+    - 1 inzichtvraag of nieuwe vraag (kiezen tussen voorbereid met take-home examen en vraag op examen)
+        - ! zie uitleg in toledo voor voorwaarden!!!
+- twee detailvragen
+    - begrippenlijst
+    - 2 punten/vraag
+- zie oefeningen door monitoraat
+
+# Lesstof
+## Quid Moderniteit
+### Definities
+1. Wikipedia
+    - Verwijzing naar het feit dat iets recent of nieuw is
+2. Woordenboek
+    - definities
+        - tot de nieuwe tijd horend
+        - tegengesteld van klassiek
+        - passend bij nieuwste opvattingen
+        - antoniem van ouderwets
+        - opvallend nieuw, ongewoon
+        - tegengesteld aan traditie
+        - van deze tijd, volgens laatste mode
+        - synoniemen: actueel, progressief, up-to-date
+    - Kritiek
+        - zegt nog niet wat het is (idem wikipedia)
+        - onvoldoende voor historisch perspectief
+        - eenzijdig positieve connotatie
+3. Historisch bekeken
+    - Gents handboek
+        - "
