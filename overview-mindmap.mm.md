@@ -103,5 +103,95 @@
         - onvoldoende voor historisch perspectief
         - eenzijdig positieve connotatie
 3. Historisch bekeken
-    - Gents handboek
-        - "
+    - Gerard, 2018
+        - beschrijft kenmerken van moderniteit
+        - verandering op politiek, sociaal-economisch en cultureel vlak
+        - identiteit steunt op gemeenschap ipv op loyauteit naar een vorst of heer
+        - gecentraliseerde staat
+        - industriële samenleving
+        - homogene cultuur (collectieve identiteit)
+        - volkssoevereiniteit
+        - ~ Moderniseringstheorie
+    - Moderniseringstheorie
+        - sociologen, tweede helft 20ste eeuw
+        - sociale plaats obv inspanning ipv afkomst
+        - staatsinterventie
+        - democratische instellingen
+        - belastingen en social benefits 
+        - ! meer nadruk op welvaartsstaat dan Gerard
+        - Ideaal van liberale denkers, eerder dan realiteit
+    - Verlichtingsproject?
+        - Vrijheid
+        - Vooruitgang
+        - Democratie
+        - Gelijkheid
+        - Rede
+        - Vrede
+### Impacten
+#### Positief
+- technologie
+- wetenschap
+- onderijwijsdemocratisering
+- parken aanleg 18de-19de E
+- geneeskunde
+- vrijetijd(sbesteding)
+#### Negatief
+- (kinder)arbeid
+- kolonisering
+- dictatoren
+- dodelijker wapens, waaronder nucleaire
+- drukte
+- druk op het milieu
+#### Complexiteit
+- verschillende vormen van moderniteit
+- verschillende visies
+    - zie namen op slide: zoek visies eens op!
+- => inherente tegenstellingen
+### Nut van term
+- staat voor snelle verandering
+- en voor breuk met ancièn régime
+### Kenmerken volgens Bailey
+- 'Great domestication
+    - sedentarisme
+    - voorheen meer migratie
+    - cf. invoering paspoorten e.d.
+    - sedentarisme bevordert identificatie met plmaats
+- Industrious revolutions
+    - verhoogde productiviteit
+    - vraag exotische goederen
+    - strakke tijdsindeling
+- het lichaam
+    - conditionering door klok
+    - kledij veranderde
+    - voeding veranderde
+    - ziektes
+    - uniformisering
+- Globale communicatie
+    - toename van bereik en hoeveelheid
+    - post ontstaat en wordt uitgebouwd
+### Moderniteit in het Westen
+#### Secularisering en individualisering
+- Renaissance & humanisme
+    - mens centraaal
+    - na horror van De Pest
+    - "hoe is dit mogelijk en waar is God?"
+    - lot verbeteren
+- Verlichting (17de-18de E)
+- -> Culturele en wetenschappelijke revoluties
+    - Rede centraal
+    - Onderzoek ipv kerk
+#### Economische reorganisatie en expansie
+#### Staatsvorming
+### Invloeden op de Verlichting
+- Verlichting als globaal universeel fenomeen (artikel!)
+- taoisme
+- Griekse filosofen
+- Averroes
+- Oudste universiteiten:
+    - Tunis (oudste)
+    - Fes (Marokko) (tweede oudste)
+    - Cairo (derde oudste)
+    - Pas later Bologna en Oxford e.a.
+    - (KUL 1425)
+
+[1:26]
