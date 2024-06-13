@@ -317,3 +317,5 @@ St. John Paul II, Latin Johannes Paulus, original name Karol Józef Wojtyła,  (
 
 ## Lech Wałęsa
 
+Lech Wałęsa, (born September 29, 1943, Popowo, near Włocławek, Poland) is a labour activist who helped form and led (1980–90) communist Poland’s first independent trade union, Solidarity. The charismatic leader of millions of Polish workers, he went on to become the president of Poland (1990–95). He received the Nobel Prize for Peace in 1983.
+
