@@ -319,3 +319,28 @@ St. John Paul II, Latin Johannes Paulus, original name Karol Józef Wojtyła,  (
 
 Lech Wałęsa, (born September 29, 1943, Popowo, near Włocławek, Poland) is a labour activist who helped form and led (1980–90) communist Poland’s first independent trade union, Solidarity. The charismatic leader of millions of Polish workers, he went on to become the president of Poland (1990–95). He received the Nobel Prize for Peace in 1983.
 
+
+## Richard Nixon
+
+Richard Nixon, in full Richard Milhous Nixon,  (born January 9, 1913, Yorba Linda, California, U.S.—died April 22, 1994, New York, New York) was the 37th president of the United States (1969–74), who, faced with almost certain impeachment for his role in the Watergate scandal, became the first American president to resign from office. He was also vice president (1953–61) under Pres. Dwight D. Eisenhower.
+
+Richard Nixon – the 37th president of the United States – made groundbreaking achievements in foreign policy that helped ease Cold War tensions with China and the Soviet Union. But his accomplishments were overshadowed by the political scandal known as Watergate, which forced him to resign in disgrace.
+
+video essay (5 minutes): https://academic-eb-com.kuleuven.e-bronnen.be/levels/collegiate/assembly/view/193173 (kul sign-in needed)
+
+
+## Mikhail Gorbatsjov (ENG: Gorbachev)
+
+Mikhail Gorbachev, in full Mikhail Sergeyevich Gorbachev,  (born March 2, 1931, Privolnoye, Stavropol kray, Russia, U.S.S.R.—died August 30, 2022, Moscow, Russia) was a Soviet official, general secretary of the Communist Party of the Soviet Union (CPSU) from 1985 to 1991 and president of the Soviet Union in 1990–91. His efforts to democratize his country’s political system and decentralize its economy led to the downfall of communism and the breakup of the Soviet Union in 1991. In part because he ended the Soviet Union’s postwar domination of eastern Europe, Gorbachev was awarded the Nobel Prize for Peace in 1990.
+
+
+## Boris Jeltsin (ENG: Yeltsin)
+
+Boris Yeltsin, in full Boris Nikolayevich Yeltsin,  (born February 1, 1931, Sverdlovsk [now Yekaterinburg], Russia, U.S.S.R.—died April 23, 2007, Moscow, Russia) was a Russian politician who became president of Russia in 1990. In 1991 he became the first popularly elected leader in the country’s history, guiding Russia through a stormy decade of political and economic retrenching until his resignation on the eve of 2000.
+
+
+## Slobodan Milošević
+
+Slobodan Milošević, (born August 29, 1941, Požarevac, Yugoslavia [now in Serbia]—found dead March 11, 2006, The Hague, Netherlands) was a politician and administrator, who, as Serbia’s party leader and president (1989–97), pursued Serbian nationalist policies that contributed to the breakup of the socialist Yugoslav federation. He subsequently embroiled Serbia in a series of conflicts with the successor Balkan states. From 1997 to 2000 he served as president of the Federal Republic of Yugoslavia.
+
+Milošević was born in Serbia of Montenegrin parents and joined the Communist Party of Yugoslavia (from 1963 the League of Communists of Yugoslavia [LCY]) when he was 18 years old. He graduated from the University of Belgrade with a law degree in 1964 and began a career in business administration, eventually becoming head of the state-owned gas company and president of a major Belgrade bank. He married Mirjana Marković, a staunch communist who became his political adviser. Milošević entered politics full-time in 1984 as a protégé of Ivan Stambolić, head of the League of Communists of Serbia (LCS). Milošević took over as head of the local communist party organization in Belgrade that year.
