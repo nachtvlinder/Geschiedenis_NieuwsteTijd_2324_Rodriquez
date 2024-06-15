@@ -198,5 +198,24 @@ Rerum Novarum, encyclical issued by Pope Leo XIII in 1891 and considered by many
 The text itself isn't too long to read: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
 
 
+## Fascisme (extra?)
+
+Fascism, political ideology and mass movement that dominated many parts of central, southern, and eastern Europe between 1919 and 1945 and that also had adherents in western Europe, the United States, South Africa, Japan, Latin America, and the Middle East. Europe’s first fascist leader, Benito Mussolini, took the name of his party from the Latin word fasces, which referred to a bundle of elm or birch rods (usually containing an ax) used as a symbol of penal authority in ancient Rome. Although fascist parties and movements differed significantly from one another, they had many characteristics in common, including extreme militaristic nationalism, contempt for electoral democracy and political and cultural liberalism, a belief in natural social hierarchy and the rule of elites, and the desire to create a Volksgemeinschaft (German: “people’s community”), in which individual interests would be subordinated to the good of the nation. At the end of World War II, the major European fascist parties were broken up, and in some countries (such as Italy and West Germany) they were officially banned. Beginning in the late 1940s, however, many fascist-oriented parties and movements were founded in Europe as well as in Latin America and South Africa. Although some European “neofascist” groups attracted large followings, especially in Italy and France, none were as influential as the major fascist parties of the interwar period.
+
+
 ## Integraal nationalisme
+
+Integral nationalism (French: nationalisme intégral) is a type of nationalism[1][2][3] that originated in 19th-century France, was theorized by Charles Maurras and mainly expressed in the ultra-royalist circles of Action Française. The doctrine is also called Maurrassisme.
+
+Integral nationalism sought to be a counter-revolutionary doctrine, providing a national doctrine that could ensure the territorial cohesion and grandeur of the French state. Its worldview was based on several precepts. Firstly, method: the principle of "Politics first!", that is, that the nationalist, political Catholic and monarchist movements must focus their efforts on changing the political and constitutional order, rather than accepting the victory of radical republicanism and displacing their activity into social or cultural pursuits. Secondly, the belief that the Enlightenment in general and French Revolution in particular had broken a traditional social contract: Maurras held that, by stressing allegiance to the cultural and political nation-state, they had erased an older patriotism based on allegiance to more 'organic' units such as family, petit pays and monarchy. Finally, a moral component: Maurras regarded French society, as of the turn of the twentieth century, as having slid from a Golden Age into a period of decadence and corruption incarnated by the military defeat of 1870-1 and the cultural clash of the Dreyfus affair.
+
+To his mind, the French national community had seen its period of geopolitical grandeur under the absolutist regime of Louis XIV where religion and politics were merged under the absolute authority of the monarch. Maurras blamed French national decline on the overthrow of the cultural and political system of the Ancien Régime, its replacement with the revolutionary and romantic form of liberalism born of the French Revolution (known as Radicalism), and the century of political and constitutional conflict that followed after 1789. Thus Maurras imagined that the introduction of such ideas into the body politic could only have come from outside influences: Freemasons, Protestants, Jews and foreigners (whom he labelled 'Metics')[4] Together these four communities represented, to Maurras, 'Anti-France' and could never be integrated into the French nation.
+
+
+## Dreyfusaffaire
+
+Dreyfus affair, political crisis, beginning in 1894 and continuing through 1906, in France during the Third Republic. The controversy centred on the question of the guilt or innocence of army captain Alfred Dreyfus, who had been convicted of treason for allegedly selling military secrets to the Germans in December 1894. At first the public supported the conviction; it was willing to believe in the guilt of Dreyfus, who was Jewish. Much of the early publicity surrounding the case came from anti-Semitic groups (especially the newspaper La Libre Parole, edited by Édouard Drumont), to whom Dreyfus symbolized the supposed disloyalty of French Jews.
+
+
+## Propaganda van de daad
 
