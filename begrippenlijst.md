@@ -9,7 +9,11 @@ The Industrial Revolution as a historical concept has many shortcomings. A new c
 
 ## Westerse moderniteit (kenmerken)
 
-// TODO: modernity traits ; the information can be found in class recording of first lecture and/or in powerpoint thereof, I should summarize that and put it here :-)
+1. Secularisering en individualisering
+
+2. Economische reorganisatie en expansie
+
+3. Staatsvorming
 
 
 ## Scheiding der machten
