@@ -191,14 +191,22 @@ After the Bolshevik Revolution, the term revisionism came to be used by Communis
 
 ## Rerum Novarum
 
+From Britannica:
+
 Rerum Novarum, encyclical issued by Pope Leo XIII in 1891 and considered by many conservative Roman Catholics to be extremely progressive. It enunciated the late 19th-century Roman Catholic position on social justice, especially in relation to the problems created by the Industrial Revolution, and it emphasized the church’s right to make pronouncements on social issues as they related to moral questions. (Britannica)
 
-// TODO: rerum novarum relevance ; I want to add some other information on the context and relevance of this Rerum Novarum, the Britannica entry seemed awefully short
+From Wikipedia:
+
+Rerum novarum (from its incipit, with the direct translation of the Latin meaning "of revolutionary change"[n 1]), or Rights and Duties of Capital and Labor, is an encyclical issued by Pope Leo XIII on 15 May 1891. It is an open letter, passed to all Catholic patriarchs, primates, archbishops and bishops, that addressed the condition of the working classes.
+
+It discusses the relationships and mutual duties between labor and capital, as well as government and its citizens. Of primary concern is the need for some amelioration of "the misery and wretchedness pressing so unjustly on the majority of the working class".[5] It supports the rights of labor to form unions, rejects both socialism and unrestricted capitalism, while affirming the right to private property.
+
+Rerum Novarum is considered a foundational text of modern Catholic social teaching.[6] Many of the positions in Rerum novarum are supplemented by later encyclicals, in particular Pius XI's Quadragesimo anno (1931), John XXIII's Mater et magistra (1961) and John Paul II's Centesimus annus (1991), each of which commemorates an anniversary of the publication of Rerum novarum.
 
 The text itself isn't too long to read: https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html
 
 
-## Fascisme (extra?)
+## Fascisme (niet in begrippenlijst)
 
 Fascism, political ideology and mass movement that dominated many parts of central, southern, and eastern Europe between 1919 and 1945 and that also had adherents in western Europe, the United States, South Africa, Japan, Latin America, and the Middle East. Europe’s first fascist leader, Benito Mussolini, took the name of his party from the Latin word fasces, which referred to a bundle of elm or birch rods (usually containing an ax) used as a symbol of penal authority in ancient Rome. Although fascist parties and movements differed significantly from one another, they had many characteristics in common, including extreme militaristic nationalism, contempt for electoral democracy and political and cultural liberalism, a belief in natural social hierarchy and the rule of elites, and the desire to create a Volksgemeinschaft (German: “people’s community”), in which individual interests would be subordinated to the good of the nation. At the end of World War II, the major European fascist parties were broken up, and in some countries (such as Italy and West Germany) they were officially banned. Beginning in the late 1940s, however, many fascist-oriented parties and movements were founded in Europe as well as in Latin America and South Africa. Although some European “neofascist” groups attracted large followings, especially in Italy and France, none were as influential as the major fascist parties of the interwar period.
 
@@ -502,5 +510,288 @@ In international relations, public diplomacy broadly speaking, is any of the var
 New Deal, domestic program of the administration of U.S. Pres. Franklin D. Roosevelt (FDR) between 1933 and 1939, which took action to bring about immediate economic relief as well as reforms in industry, agriculture, finance, waterpower, labour, and housing, vastly increasing the scope of the federal government’s activities. The term was taken from Roosevelt’s speech accepting the Democratic nomination for the presidency on July 2, 1932. Reacting to the ineffectiveness of the administration of Pres. Herbert Hoover in meeting the ravages of the Great Depression, American voters the following November overwhelmingly voted in favour of the Democratic promise of a “new deal” for the “forgotten man.” Opposed to the traditional American political philosophy of laissez-faire, the New Deal generally embraced the concept of a government-regulated economy aimed at achieving a balance between conflicting economic interests.
 
 
-## Destalinisatie
+## Destalinisatie (ENG: de-Stalinization)
+
+De-Stalinization, political reform launched at the 20th Party Congress (February 1956) by Soviet Communist Party First Secretary Nikita Khrushchev that condemned the cult of personality and the crimes committed by his predecessor, Joseph Stalin, destroyed Stalin’s image as an infallible leader, and promised a return to so-called socialist legality and Leninist principles of party rule. This caused profound shock among communists throughout the world—who had been taught to admire Stalin—severely damaged the prestige of the Soviet Union, generated serious friction in the international communist movement, and contributed to uprisings in 1956 in Poland and Hungary. (See also Khrushchev’s secret speech.)
+
+
+## Cubaanse Revolutie
+
+Cuban Revolution, armed uprising in Cuba that overthrew the government of Fulgencio Batista on January 1, 1959. The revolution’s leader, Fidel Castro, went on to rule Cuba from 1959 to 2008.
+
+
+## Vietnamoorlog
+
+Vietnam War, (1954–75), a protracted conflict that pitted the communist government of North Vietnam and its allies in South Vietnam, known as the Viet Cong, against the government of South Vietnam and its principal ally, the United States. Called the “American War” in Vietnam (or, in full, the “War Against the Americans to Save the Nation”), the war was also part of a larger regional conflict (see Indochina wars) and a manifestation of the Cold War between the United States and the Soviet Union and their respective allies.
+
+
+## Coca-colonization
+
+Cocacolonization (alternatively coca-colonization) refers to the globalization of American culture (also referred to as Americanization) pushed through popular American products such as the soft-drink brand Coca-Cola. The term is a portmanteau of the name of the multinational soft-drink maker and "colonization".
+
+https://www.youtube.com/watch?v=3tKUNvRgO6k
+
+
+## Golden / Swinging '60s
+
+The Swinging Sixties was a youth-driven cultural revolution that took place in the United Kingdom during the mid-to-late 1960s, emphasising modernity and fun-loving hedonism, with Swinging London denoted as its centre.[1] It saw a flourishing in art, music and fashion, and was symbolised by the city's "pop and fashion exports", such as the Beatles, as the multimedia leaders of the British Invasion of musical acts; the mod and psychedelic subcultures; Mary Quant's miniskirt designs; popular fashion models such as Twiggy and Jean Shrimpton; the iconic status of popular shopping areas such as London's King's Road, Kensington and Carnaby Street; the political activism of the anti-nuclear movement; and the sexual liberation movement.[1]
+
+Music was an essential part of the revolution, with "the London sound" being regarded as including the Beatles, the Rolling Stones, the Who, the Kinks and the Small Faces, bands that were additionally the mainstay of pirate radio stations like Radio Caroline, Wonderful Radio London and Swinging Radio England.[2] Swinging London also reached British cinema, which according to the British Film Institute "saw a surge in formal experimentation, freedom of expression, colour, and comedy", with films that explored countercultural and satirical themes.[1] During this period, "creative types of all kinds gravitated to the capital, from artists and writers to magazine publishers, photographers, advertisers, film-makers and product designers".[2]
+
+During the 1960s, London underwent a "metamorphosis from a gloomy, grimy post-war capital into a bright, shining epicentre of style".[2] The phenomenon has been agreed to have been caused by the large number of young people in the city—due to the baby boom of the 1950s—and the postwar economic boom.[2] Following the abolition of the national service for men in 1960, these young people enjoyed greater freedom and fewer responsibilities than their parents' generation,[2] and "[fanned] changes to social and sexual politics".[1]
+
+Shaping the popular consciousness of aspirational Britain in the 1960s, the period was a West End–centred phenomenon regarded as happening among young, middle class people, and was often considered as "simply a diversion" by them. The swinging scene also served as a consumerist counterpart to the more overtly political and radical British underground of the same period. English cultural geographer Simon Rycroft wrote that "whilst it is important to acknowledge the exclusivity and the dissenting voices, it does not lessen the importance of Swinging London as a powerful moment of image making with very real material effect."[3]
+
+Golden sixties seems to be a term used for the era in Belgium, but also elsewhere. It refers to the wealthy times, and was probably also used in the USA as a phrase, but I'm not sure. Somehow, Google only shows me results of music of the era and of history books from Flemish authors...
+
+Wikipedia on the 1960s:
+
+The 1960s (pronounced "nineteen-sixties", shortened to the "'60s" or the "Sixties") was a decade that began on January 1, 1960, and ended on December 31, 1969.[1]
+
+While the achievements of humans being launched into space, orbiting Earth, and walking on the Moon extended exploration, the Sixties are known as the "countercultural decade" in the United States and other Western countries. There was a revolution in social norms, including clothing, music (such as the Altamont Free Concert), drugs, dress, sexuality, formalities, civil rights, precepts of military duty, and schooling. Others denounce the decade as one of irresponsible excess, flamboyance, the decay of social order, and the fall or relaxation of social taboos. A wide range of music emerged; from popular music inspired by and including the Beatles (in the United States known as the British Invasion), the folk music revival, to the poetic lyrics of Bob Dylan. In the United States the Sixties were also called the "cultural decade" while in the United Kingdom (especially London) it was called the Swinging Sixties.
+
+The United States had four presidents that served during the decade; Dwight D. Eisenhower, John F. Kennedy, Lyndon B. Johnson and Richard Nixon. Eisenhower was near the end of his term and left office in January 1961, and Kennedy was assassinated[2][3] in 1963. Kennedy had wanted Keynesian[4] and staunch anti-communist social reforms. These were passed under Johnson including civil rights for African Americans and health care for the elderly and the poor. Despite his large-scale Great Society programs, Johnson was increasingly disliked by the New Left at home and abroad. For some, May 1968 meant the end of traditional collective action and the beginning of a new era to be dominated mainly by the so-called new social movements.[5]
+
+After the Cuban Revolution led by Fidel Castro, the United States attempted to depose the new leader by training Cuban exiles and invading the island of Cuba. This led to Cuba to ally itself to the Soviet Union, a hostile enemy to the United States, resulting in an international crisis when Cuba hosted Soviet ballistic missiles similar to Turkey hosting American missiles, which brought the possibility of causing World War III. However, after negotiations between the U.S. and the U.S.S.R, both agreed to withdraw their weapons averting potential nuclear warfare.
+
+After U.S. President Kennedy's assassination, direct tensions between the superpower countries of the United States and the Soviet Union developed into a contest with proxy wars, insurgency funding, puppet governments and other overall influence mainly in Latin America, Africa, and Asia. This "Cold War" dominated the world's geopolitics during the decade. Construction of the Berlin Wall by East Germany began in 1961. Africa was in a period of radical political change as 32 countries gained independence from their European colonial rulers. The heavy-handed American role in the Vietnam War lead to an anti-Vietnam War movement with outraged student protestors around the globe culminating in the protests of 1968.
+
+China saw the end of Mao's Great Leap Forward in 1962 that led to many Chinese to die from the deadliest famine in human history and the start of the Cultural Revolution from 1966 to 1976. Its stated goal was to preserve Chinese communism by purging remnants of capitalist and traditional elements from Chinese society, leading to the arrests of a many Chinese politicians, the killings of millions of civilians and ethnic minorities, and the destruction of many historical and cultural buildings, artifacts and materials all of which would last until the death of Mao Zedong.
+
+By the end of the 1950s, post-war reconstructed Europe began an economic boom. World War II had closed up social classes with remnants of the old feudal gentry disappearing. A developing upper-working-class (a newly redefined middle-class) in Western Europe could afford a radio, television, refrigerator and motor vehicles. The Soviet Union and other Warsaw Pact countries were improving quickly after rebuilding from WWII. Real GDP growth averaged 6% a year during the second half of the decade; overall, the worldwide economy prospered in the 1960s with expansion of the middle class and the increase of new domestic technology.
+
+In the United Kingdom, the Labour Party gained power in 1964 with Harold Wilson as Prime Minister through most of the decade.[6] In France, the protests of 1968 led to President Charles de Gaulle temporarily fleeing the country.[7] Italy formed its first left-of-center government in March 1962 with Aldo Moro becoming Prime Minister in 1963. Soviet leaders during the decade were Nikita Khrushchev until 1964 and Leonid Brezhnev.
+
+During the 1960s, the world population increased from 3.0 to 3.7 billion people. There were approximately 1.15 billion births and 500 million deaths.
+
+https://en.wikipedia.org/wiki/1960s
+
+
+## Feminism
+
+Feminism, the belief in social, economic, and political equality of the sexes. Although largely originating in the West, feminism is manifested worldwide and is represented by various institutions committed to activity on behalf of women’s rights and interests.
+
+Why is International Women's Day on March 8?2:39Encyclopædia Britannica, Inc.Encyclopædia Britannica, Inc.
+Throughout most of Western history, women were confined to the domestic sphere, while public life was reserved for men. In medieval Europe, women were denied the right to own property, to study, or to participate in public life. At the end of the 19th century in France, they were still compelled to cover their heads in public, and, in parts of Germany, a husband still had the right to sell his wife. Even as late as the early 20th century, women could neither vote nor hold elective office in Europe and in most of the United States (where several territories and states granted women’s suffrage long before the federal government did so). Women were prevented from conducting business without a male representative, be it father, brother, husband, legal agent, or even son. Married women could not exercise control over their own children without the permission of their husbands. Moreover, women had little or no access to education and were barred from most professions. In some parts of the world, such restrictions on women continue today. See also egalitarianism.
+
+Women’s rights movement, also called women’s liberation movement,  diverse social movement, largely based in the United States, that in the 1960s and ’70s sought equal rights and opportunities and greater personal freedom for women. It coincided with and is recognized as part of the “second wave” of feminism. While the first-wave feminism of the 19th and early 20th centuries focused on women’s legal rights, especially the right to vote (see women’s suffrage), the second-wave feminism of the women’s rights movement touched on every area of women’s experience—including politics, work, the family, and sexuality. Organized activism by and on behalf of women continued through the third and fourth waves of feminism from the mid-1990s and the early 2010s, respectively. For more discussion of historical and contemporary feminists and the women’s movements they inspired, see feminism.
+
+### Second wave feminism
+
+Second wave of feminism, the period of the women’s movement in the United States that emerged in the 1960s and lasted through the 1970s. Unlike the first wave of feminism, of the 19th and early 20th centuries, which focused primarily on securing women’s right to vote, the second wave lobbied for equality in all aspects of women’s experience, particularly in employment, politics, marriage and family, education, and sexuality. Landmark victories of second-wave feminists include the passage of the Equal Pay Act (1963) and Title IX (1972) and the legalization of abortion through the U.S. Supreme Court’s ruling on Roe v. Wade (1973).
+
+
+## body politics
+
+### similar term: the body politic
+
+The body politic is a polity—such as a city, realm, or state—considered metaphorically as a physical body. Historically, the sovereign is typically portrayed as the body's head, and the analogy may also be extended to other anatomical parts, as in political readings of Aesop's fable of "The Belly and the Members". The image originates in ancient Greek philosophy, beginning in the 6th century BC, and was later extended in Roman philosophy. Following the high and late medieval revival of the Byzantine Corpus Juris Civilis in Latin Europe, the "body politic" took on a jurisprudential significance by being identified with the legal theory of the corporation, gaining salience in political thought from the 13th century on. In English law the image of the body politic developed into the theory of the king's two bodies and the Crown as corporation sole.
+
+### body politics in modern human rights discourse
+
+In their 220 page primer on body politics, Amnesty International uses it as a concept for policies that aim to control and/or criminalize sexual, physical and reproductive health decisions.
+
+Link: https://www.amnesty.org/en/documents/pol40/7763/2018/en/
+
+From the foreword:
+
+There is a long history of states criminalizing sexuality and reproductive decisions
+relating to health. Unfortunately, despite increasing attention paid to the protection
+of human rights in the last few decades, the criminalization fever shows no signs of
+cooling. In some areas this trend appears to have gained renewed strength. Throughout
+much of the Americas, for example, women and health professionals can be punished
+for seeking, obtaining or providing abortion services. In certain states in Africa,
+opportunistic politicians have pumped life into antiquated statutes or passed new laws
+punishing same-sex activity with dire penalties. Notably, this rush to criminalization is
+not limited to developing or least developed states. The last few years has also seen
+a rise in women in the USA being jailed for otherwise legal acts conducted during
+pregnancy, and in many rich and poor states alike, individuals can still be prosecuted
+for transmission of HIV.
+Criminalization of sexual and reproductive health-related activity, in particular, stands
+as a significant impediment to the realization of human rights, particularly the right to
+health. Although such criminalization is justified by some as a “public health” measure,
+in most cases it exacerbates the underlying public health concern by driving risk
+behaviour underground and preventing the provision of effective health services;
+contributing to preventable illness and death. Criminalization of consensual reproductive
+and sexual behaviours also violates autonomy, which is the foundation on which an
+individual’s ability to realise their right to health is built.
+In addition to implicating human rights adversely, criminalization of sexuality and
+reproductive decisions engenders stigmatization, discrimination and even violence
+against people engaged in (or suspected of engaging in) the prohibited behaviour, which
+can further place the health of vulnerable people at risk. Indeed, the individuals facing
+punishment tend to be members of poor, marginalized and vulnerable groups, as opposed
+to wealthy individuals engaging in the same behaviour. Moreover, such criminalization
+affects not just those against whom the law is directed, but negatively impacts the
+rights of entire populations by giving states power to interfere with individuals’ private
+decision-making and forcing people to conform to strict sexual and gender norms.
+Using the force of state machinery to achieve illegitimate aims relating to the public
+morality can further lead to an environment generally permissive of arbitrary arrests and
+detention, harassment, stigmatization, discrimination and violence. Such use of power
+also weakens respect for the rule of law.
+
+
+## Segregatie
+
+Segregation, separation of groups of people with differing characteristics, often taken to connote a condition of inequality. Racial segregation is one of many types of segregation, which can range from deliberate and systematic persecution through more subtle types of discrimination to self-imposed separation. Yet segregation can also be an outcome of circumstances that may not be morally troubling. Segregation, in and of itself, is not a normative concept, like injustice, but instead is a condition that, in order to ascribe causation, requires investigation of all its dimensions.
+
+
+## Lynching
+
+Lynching, a form of violence in which a mob, under the pretext of administering justice without trial, executes a presumed offender, often after inflicting torture and corporal mutilation. The term lynch law refers to a self-constituted court that imposes sentence on a person without due process of law. Both terms are derived from the name of Charles Lynch (1736–96), a Virginia planter and justice of the peace who, during the American Revolution, headed an irregular court formed to punish loyalists.
+
+
+## Stagflatie
+
+In economics, stagflation (or recession-inflation) is a situation in which the inflation rate is high or increasing, the economic growth rate slows, and unemployment remains steadily high. Stagflation, once thought impossible,[1] poses a dilemma for economic policy, as measures to reduce inflation may exacerbate unemployment.
+
+The term, a portmanteau of stagnation and inflation, is generally attributed to Iain Macleod, a British Conservative Party politician who became Chancellor of the Exchequer in 1970. Macleod used the word in a 1965 speech to Parliament during a period of simultaneously high inflation and unemployment in the United Kingdom.[2][3][4][5] Warning the House of Commons of the gravity of the situation, he said:
+
+"We now have the worst of both worlds—not just inflation on the one side or stagnation on the other, but both of them together. We have a sort of 'stagflation' situation. And history, in modern terms, is indeed being made."[4][6]
+
+Macleod used the term again on 7 July 1970, and the media began also to use it, for example in The Economist on 15 August 1970, and Newsweek on 19 March 1973. John Maynard Keynes did not use the term, but some of his work refers to the conditions that most would recognise as stagflation. In the version of Keynesian macroeconomic theory that was dominant between the end of World War II and the late 1970s, inflation and recession were regarded as mutually exclusive, the relationship between the two being described by the Phillips curve. Stagflation is very costly and difficult to eradicate once it starts.
+
+
+## Neoliberalisme
+
+### Governance ideology
+
+Those who advocate neoliberalism argue that the state is inherently inefficient when compared with markets. Often, neoliberals also suggest that the postwar Keynesian welfare state is in crisis: it has become too large to be manageable, it is collapsing under the burden of excessive taxation, and it is generating ever-higher rates of cyclical inflation. Neoliberals believe that the postwar state cannot be sustained any longer, especially in a world that is now characterized by highly mobile capital and by vigorous economic competition between states. Hence, they attempt to roll back the state. They often suggest, in particular, that the state should concentrate on making policy decisions rather than on delivering services. They want the state to withdraw from direct delivery of services. They want to replace state provision of public services with an entrepreneurial system based on competition and markets. Some experts distinguish between the activity of making policy decisions, which they describe as “steering,” and that of delivering public services, which they describe as “rowing.” They argue that bureaucracy is bankrupt as a tool for rowing. And they propose replacing bureaucracy with an “entrepreneurial government,” based on competition, markets, customers, and measurement of outcomes.
+
+Because neoliberals deride government, many of them look for another term to describe the kind of entrepreneurial pattern of rule they favour. Governance offers them such a concept. It enables them to distinguish between “bad” government (or rowing) and necessary governance (or steering). The early association of governance with a minimal state and the spread of markets thus arose from neoliberal politicians and the policy wonks, journalists, economists, and management gurus who advised them.
+
+### Political philosophy
+
+Neoliberalism, ideology and policy model that emphasizes the value of free market competition. Although there is considerable debate as to the defining features of neoliberal thought and practice, it is most commonly associated with laissez-faire economics. In particular, neoliberalism is often characterized in terms of its belief in sustained economic growth as the means to achieve human progress, its confidence in free markets as the most-efficient allocation of resources, its emphasis on minimal state intervention in economic and social affairs, and its commitment to the freedom of trade and capital.
+
+Although the terms are similar, neoliberalism is distinct from modern liberalism. Both have their ideological roots in the classical liberalism of the 19th century, which championed economic laissez-faire and the freedom (or liberty) of individuals against the excessive power of government. That variant of liberalism is often associated with the economist Adam Smith, who argued in The Wealth of Nations (1776) that markets are governed by an “invisible hand” and thus should be subject to minimal government interference. But liberalism evolved over time into a number of different (and often competing) traditions. Modern liberalism developed from the social-liberal tradition, which focused on impediments to individual freedom—including poverty and inequality, disease, discrimination, and ignorance—that had been created or exacerbated by unfettered capitalism and could be ameliorated only through direct state intervention. Such measures began in the late 19th century with workers’ compensation schemes, the public funding of schools and hospitals, and regulations on working hours and conditions and eventually, by the mid-20th century, encompassed the broad range of social services and benefits characteristic of the so-called welfare state.
+
+By the 1970s, however, economic stagnation and increasing public debt prompted some economists to advocate a return to classical liberalism, which in its revived form came to be known as neoliberalism. The intellectual foundations of that revival were primarily the work of the Austrian-born British economist Friedrich von Hayek, who argued that interventionist measures aimed at the redistribution of wealth lead inevitably to totalitarianism, and of the American economist Milton Friedman, who rejected government fiscal policy as a means of influencing the business cycle (see also monetarism). Their views were enthusiastically embraced by the major conservative political parties in Britain and the United States, which achieved power with the lengthy administrations of British Prime Minister Margaret Thatcher (1979–90) and U.S. Pres. Ronald Reagan (1981–89).
+
+Neoliberal ideology and policies became increasingly influential, as illustrated by the British Labour Party’s official abandonment of its commitment to the “common ownership of the means of production” in 1995 and by the cautiously pragmatic policies of the Labour Party and the U.S. Democratic Party from the 1990s. As national economies became more interdependent in the new era of economic globalization, neoliberals also promoted free-trade policies and the free movement of international capital (see neoliberal globalization). The clearest sign of the new importance of neoliberalism, however, was the emergence of libertarianism as a political force, as evidenced by the increasing prominence of the Libertarian Party in the United States and by the creation of assorted think tanks in various countries, which sought to promote the libertarian ideal of markets and sharply limited governments.
+
+Beginning in 2007, the financial crisis and Great Recession in the United States and western Europe led some economists and political leaders to reject the neoliberals’ insistence on maximally free markets and to call instead for greater government regulation of the financial and banking industries.
+
+
+## Radical right
+
+### Piecemeal Britannica entries
+
+In the Britannica Academic resource, I found the two terms listed seperately when searching for the full two word phrase.
+
+#### Radical
+
+Radical, in politics, one who desires extreme change of part or all of the social order. The word was first used in a political sense in Charles James FoxEngland, and its introduction is generally ascribed to Charles James Fox, who in 1797 declared for a “radical reform” consisting of a drastic expansion of the franchise to the point of universal manhood suffrage. The term radical thereafter began to be used as a general term covering all those who supported the movement for parliamentary reform. After the passage of the Reform Act of 1832, which extended the suffrage only to part of the middle class, a group of Radicals allied with the Whig faction in Parliament continued to press for an extension of the vote to include even the working class. When the Reform Act of 1867 further widened suffrage, the Radicals, notably in London and Birmingham, took the lead in organizing the new voters, helping to transform the Whig parliamentary faction into the Liberal Party of the later Victorian era. Because of their efforts on behalf of the working-class vote, the Radicals earned the loyalty of the trade unions; from 1874 to 1892 every trade unionist who sat in Parliament regarded himself as a Radical.
+
+In France before 1848 the term radical designated a republican or supporter of universal manhood suffrage; open advocacy of republicanism being technically illegal, republicans usually called themselves radicals. After 1869 a self-styled Radical faction led by Georges Clemenceau began to drift away from the moderate democratic-republicanism of Léon Gambetta. These Radicals deemed themselves the true heirs of the French Revolutionary tradition. In 1881 at Montmartre they adopted a platform calling for broad social reforms, and at the turn of the century the Radical-Socialist Party was formed.
+
+The English Radicals of the 19th century were influenced by philosophical ideas assuming that men are able to control their social environment by collective action, a position held by the so-called philosophical radicals. Because these assumptions also underlay Marxist theories of social reform, the label radical in time was affixed to Marxists and other advocates of violent social change, thus becoming inapplicable to the gradualist reformers.
+
+In the United States, although the term is usually one of opprobrium, this was not always true in the post-Depression years of the 1930s; and it is generally not true in less stable Third World societies. In popular American usage, radicalism stands for political extremism of any variety, of the left or right; Communism serves as an example of the former, Fascism of the latter. The term has more commonly been applied to the left, but the expression “the radical right” came to be used commonly in the United States. Various youth movements in the United States, widely labeled as radical, were associated with denunciation of traditional social and political values.
+
+#### Right
+
+Right, portion of the political spectrum associated with conservative political thought. The term derives from the seating arrangement of the French revolutionary parliament (c. 1790s) in which the conservative representatives sat to the presiding officer’s right. In the 19th century the term applied to conservatives who supported authority, tradition, and property. In the 20th century a divergent, radical form developed that was associated with fascism. See also left.
+
+### Other descriptions: Wikipedia
+
+On wikipedia, found through a Google search, I notice they have seperate articles for Europe and the United States.
+
+#### Europe Radical Right
+
+In political science, the terms radical right, reactionary right and populist right have been used to refer to the range of nationalist, right-wing to far-right parties that have grown in support since the late 1970s in Europe. Populist right groups have shared a number of causes, which typically include opposition to globalisation and immigration, criticism of multiculturalism, and opposition to the European Union,[1] but do not oppose democracy.
+
+The ideological spectrum of the radical right extends from staunchly right-wing national conservatism and right-wing populism to far-right Third Positionism and neo-fascist ideologies.[2][3][4]
+
+#### United States Radical Right
+
+In the politics of the United States, the radical right is a political preference that leans towards ultraconservatism, white nationalism, white supremacy, or other far-right ideologies in a hierarchical structure which is paired with conspiratorial rhetoric alongside traditionalist and reactionary aspirations.[1][2][3][4] The term was first used by social scientists in the 1950s regarding small groups such as the John Birch Society in the United States, and since then it has been applied to similar groups worldwide.[5] The term "radical" was applied to the groups because they sought to make fundamental (hence "radical") changes within institutions and remove persons and institutions that threatened their values or economic interests from political life.[6]
+
+
+## Anni di piombo / loden jaren
+
+### 'Anni di piombo'
+
+Gli anni di piombo identificano in Italia un periodo storico compreso tra la fine degli anni 1960 e gli inizi degli anni 1980, in cui si verificò un'estremizzazione della dialettica politica che produsse violenze di piazza, lotta armata e terrorismo.[1][2][3][4]
+
+L'espressione deriva dall'omonimo film del 1981 diretto da Margarethe von Trotta, che trattava l'esperienza storica analoga e contemporanea vissuta dalla Germania Ovest.[5] Questa espressione può anche essere vista in un contesto internazionale più ampio, comprendendo le varie attività terroristiche, come la strategia della tensione, e di appoggio a regimi dittatoriali, come l'operazione Condor, svolte in diverse nazioni durante la guerra fredda, il conflitto a distanza tra Stati Uniti d'America e Unione Sovietica. (Wikipedia)
+
+#### Unedited Deepl Translate of the above:
+
+The "anni di piombo" identify in Italy a historical period between the late 1960s and early 1980s, in which there was an extremization of political dialectics that produced street violence, armed struggle and terrorism.[1][2][3][4]
+
+The expression derives from the 1981 film of the same name directed by Margarethe von Trotta, which dealt with the similar, contemporary historical experience experienced by West Germany.[5] This expression can also be seen in a broader international context, encompassing the various terrorist activities, such as the Strategy of Tension, and support for dictatorial regimes, such as Operation Condor, carried out in various nations during the Cold War, the long-distance conflict between the United States of America and the Soviet Union. (Wikipedia)
+
+Translated with DeepL.com (free version)
+
+### 'loden jaren' 
+
+Deze zoekterm leidt me via Google naar 'Pentapartito', een Nederlandstalige Wikipedia-pagina:
+
+Pentapartito ("de vijf partijen") is de naam die vaak wordt gegeven aan de regeringscoalitie die van 1980 tot 1992 over Italië regeerde.
+
+Deze coalitie bestond uit de volgende vijf politieke partijen:
+
+- DC (Christendemocratische Partij van Italië)
+- PSI (Socialistische Partij van Italië)
+- PRI (Republikeinse Partij van Italië)
+- PLI (Liberale Partij van Italië)
+- PSDI (Sociaaldemocratische Partij van Italië)
+
+De regeringen kwamen met grote regelmaat ten val, maar het was altijd weer dezelfde coalitie die terugkwam. Dit verschijnsel was te wijten aan de verstarde situatie waarin de Italiaanse politiek zich toen bevond, onder meer vanwege de algemeen gevoelde noodzaak om de PCI (Communistische Partij van Italië) buiten de regering te houden.
+
+In Italië staat deze periode bekend als de "anni di piombo", de "loden jaren". Deze periode werd gekenmerkt door een wijdverbreide corruptie, door terrorisme van linker- en rechterzijde en door de banden die een aantal politici onderhielden met de Maffia. Dit alles leidde tot een golf van schandalen en een massale protestbeweging, die resulteerde in een door de Procureur van de Republiek van Milaan Giovanni Falcone uitgevoerd gerechtelijk onderzoek, bekend onder de naam "Mani pulite" (schone handen), waarin zeer vele politici, behorende tot deze vijf partijen, in opspraak kwamen, zoals: Giulio Andreotti, Arnaldo Forlani, Ciriaco De Mita en Paolo Cirino Pomicino (DC), Bettino Craxi (PSI) en Renato Altissimo en Francesco De Lorenzo (PLI).
+
+Vanwege het schandaal zijn spoedig daarop al deze vijf partijen ineengestort, zodat er een geheel ander partijenlandschap ontstond. (Wikipedia)
+
+
+## Ostpolitik / Harmeldoctrine / détente
+
+### Ostpolitik
+
+Ostpolitik, (German: “Eastern Policy”) West German foreign policy begun in the late 1960s. Initiated by Willy Brandt as foreign minister and then chancellor, the policy was one of détente with Soviet-bloc countries, recognizing the East German government and expanding commercial relations with other Soviet-bloc countries. Treaties were concluded in 1970 with the Soviet Union, renouncing the use of force in their relations, and with Poland, recognizing Germany’s 1945 losses east of the Oder-Neisse Line. The policy was continued by Chancellor Helmut Schmidt.
+
+### Harmeldoctrine
+
+Pierre Charles José Marie, Count Harmel (French pronunciation: [pjɛʁ aʁmɛl]; 16 March 1911 – 15 November 2009) was a Belgian lawyer, Christian Democratic politician and diplomat. Harmel served as the prime minister of Belgium from 1965 to 1966.
+
+As (Belgian) Minister of Foreign Affairs, he submitted a report titled "Future Tasks of the Alliance" to the NATO council of ministers.[2] The report, which was approved by the council in December 1967, contained the so-called "Harmel Doctrine".[3] It advocated a strong defence combined with good diplomatic relations with the countries of the Warsaw Pact. The Harmel Doctrine helped to pave the way for the East-West détente of the early 1970s, which led to the 1975 Helsinki Summit and the creation of the OSCE.[4][5] Harmel himself visited several Warsaw Pact countries.
+
+La détente désigne le plus souvent la phase, pendant la guerre froide, des relations Est-Ouest qui commence au début de 1963, après la crise des missiles de Cuba, et s'achève en 1979-1980 avec l'invasion soviétique en Afghanistan et l'arrivée de Ronald Reagan à la présidence des États-Unis. L'Acte final d'Helsinki de 1975 en est le point culminant, après lequel les relations se tendent à nouveau progressivement en raison de la persistance de la course aux armements et de nouvelles tensions Est-Ouest, en particulier dans le tiers-monde1.
+
+L'usage du mot « détente » pour désigner de manière imagée et synthétique cette phase est devenu courant à partir du début des années 1960, en français mais aussi en anglais, souvent en combinaison avec sa définition usuelle de relâchement des tensions (en anglais : relaxation of tensions). La notion de détente se substitue très largement à celle de coexistence pacifique2, laquelle continue d'être utilisée principalement par les Soviétiques qui l'avaient formulée. Les périodes de rapprochement entre l'Est et l'Ouest sont également qualifiées du nom de dégel.
+
+Entre les deux blocs, il y eut plusieurs cycles de montée puis de relâchement des tensions. Les années 1953-1958, avec la disparition de Staline et l'émergence de KhrouchtchevNote 1, puis les années 1985-1989 avec l'arrivée au pouvoir de Gorbatchev constituent ainsi d'autres phases de détente entre l'Est et l'Ouest.
+
+La « détente » des années 1963-1979 correspond au relâchement des tensions qui s'est instauré progressivement à partir de 1963, caractérisé par :
+
+- La tenue de fréquentes rencontres au sommet, partie visible du développement à grande échelle d'un dialogue diplomatique qui ne se limite pas aux États-Unis et à l'Union soviétique, mais implique fortement les États d'Europe de l'Ouest et de l'Est ainsi que la Chine, la négociation prenant le pas sur les face-à-face tendus des années précédentes,
+- La signature d'accords et de traités d'importance entre pays de l'Ouest et de l'Est, en matière de relations internationales et de limitation des armements,
+- Le développement des relations de toutes natures, économiques en premier lieu, mais aussi scientifiques, sportives, et culturelles.
+
+
+## Helsinki-conference
+
+### OSCE
+
+Organization for Security and Co-operation in Europe, formerly (1972–94) Conference on Security and Co-operation in Europe, organization of representatives of virtually all the states of Europe, as well as the United States and Canada, committed to formalizing decisions on important questions affecting the security and stability of the European continent as a whole. Its headquarters are in Vienna.
+
+The organization was established in 1972, and its first conference (1973–75) was attended by all 33 countries of Europe (with the exception of Albania) and by the United States and Canada. The conference culminated in the signing on August 1, 1975, of the Helsinki Accords, in which the American- and Soviet-led alliances (the North Atlantic Treaty Organization and the Warsaw Pact, respectively) recognized the inviolability of the post-World War II frontiers in Europe and committed themselves to respect human rights and fundamental freedoms. Follow-up conferences were held in Belgrade, Yugoslavia (now in Serbia), in 1977–78; Madrid, Spain, in 1980–83; and Ottawa, Ontario, Canada, in 1985. Heads of state or government meet every two to three years.
+
+After communist governments collapsed across eastern Europe in 1989 and the reunification of Germany became inevitable in 1990, a second major summit meeting was held in November in Paris to formally end the long-standing confrontation between the Western and Soviet blocs in Europe. The number of members was reduced from 35 to 34 by the reunification of Germany that October. The Paris summit was marked by the adoption of a Charter of Paris for a New Europe, which expanded the organization’s role and established permanent institutions. In 1991 Estonia, Latvia, and Lithuania became members, and Russia assumed the seat held by the former Soviet Union. In 1992 the other republics formerly of the Soviet Union also became members, as did Albania.
+
+### Helsinki-akkoorden
+
+De Helsinki-akkoorden vormen de slotverklaring van de Conferentie over Veiligheid en Samenwerking in Europa (later hernoemd naar Organisatie voor Veiligheid en Samenwerking in Europa) die plaatsvond in 1975 te Helsinki. De slotverklaring werd ondertekend door 33 Europese landen (w.o. de Sovjet-Unie), de Verenigde Staten en Canada, totaal 35 landen.
+
+Een deel van deze verklaring ging over mensenrechten, andere onderdelen gingen over samenwerking op het gebied van economie, wetenschap, technologie, milieu, veiligheidsvraagstukken en humanitaire zaken. Het deel over de mensenrechten werd een basis waarop veel dissidenten en mensenrechtenorganisaties in het Oostblok zich beriepen. Opvallend is dat men na het tekenen van de akkoorden naar huis ging met het idee een akkoord over veiligheid te hebben getekend, terwijl men de akkoorden tien jaar later voornamelijk zag als een akkoord over mensenrechten.
+
+
+## Perestroika
+
+Perestroika, (Russian: “restructuring”) program instituted in the Soviet Union by Mikhail Gorbachev in the mid-1980s to restructure Soviet economic and political policy. Seeking to bring the Soviet Union up to economic par with capitalist countries such as Germany, Japan, and the United States, Gorbachev decentralized economic controls and encouraged enterprises to become self-financing. The economic bureaucracy, fearing the loss of its power and privileges, obstructed much of his program, however. Gorbachev also proposed reducing the direct involvement of the Communist Party leadership in the country’s governance and increasing the local governments’ authority. In 1988 a new parliament, the Soviet Congress of People’s Deputies, was created. Similar congresses were established in each Soviet republic as well. For the first time, elections to these bodies presented voters with a choice of candidates, including noncommunists, though the Communist Party continued to dominate the system. (See also glasnost.)
+
+
+## Glasnost
+
+Glasnost, (Russian: “openness”) Soviet policy of open discussion of political and social issues. It was instituted by Mikhail Gorbachev in the late 1980s and began the democratization of the Soviet Union. Ultimately, fundamental changes to the political structure of the Soviet Union occurred: the power of the Communist Party was reduced, and multicandidate elections took place. Glasnost also permitted criticism of government officials and allowed the media freer dissemination of news and information. (See also perestroika.)
 
