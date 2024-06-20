@@ -470,6 +470,8 @@ De Koreaanse Oorlog of Koreaoorlog is een in het Westen gebruikte naam voor een 
 
 De directe oorzaak van het conflict lag in de na de Tweede Wereldoorlog doorgevoerde deling van het in 1910 door het Japanse Keizerrijk geannexeerde Keizerrijk Korea. Het noordelijk deel werd door de Sovjet-Unie bezet en het zuidelijk deel door de Verenigde Staten. Als scheidslijn werd de 38e breedtegraad genomen. De opdeling zou tijdelijk zijn, maar beide delen ontpopten zich al snel tot een eigen entiteit. Het noordelijk deel werd communistisch en het zuiden mocht zich - slechts in naam - democratisch noemen. Van een op vreedzame wijze samengaan van beide delen was al snel geen sprake meer en beide delen overwogen met militair geweld het andere deel in te nemen.
 
+Na diverse grensconflicten begon de oorlog op 25 juni 1950 met een invasie van Noord-Korea op het zuiden en eindigde op 27 juli 1953 met een wapenstilstand, zonder dat een echte winnaar tevoorschijn was gekomen. De nieuwe scheidslijn kwam nabij de 38e breedtegraad te liggen. Er is sindsdien geen vredesverdrag gesloten, waardoor het conflict formeel nog steeds voortduurt. De Koreaanse situatie was lang een onderdeel van de Koude Oorlog.
+
 
 ## McCarthysm
 
@@ -477,4 +479,28 @@ McCarthyism, name given to the period of time in American history that saw U.S. 
 
 
 ## Soft power / cultural diplomacy
+
+Soft power is the ability to obtain preferred outcomes by attraction rather than coercion or payment. (Joseph Nye; https://www.nature.com/articles/palcomms20178)
+
+Wikipedia writes: In politics (and particularly in international politics), soft power is the ability to co-opt rather than coerce (in contrast with hard power). It involves shaping the preferences of others through appeal and attraction. Soft power is non-coercive, using culture, political values, and foreign policies to enact change. In 2012, Joseph Nye of Harvard University explained that with soft power, "the best propaganda is not propaganda", further explaining that during the Information Age, "credibility is the scarcest resource".[1]
+
+Nye popularised the term in his 1990 book, Bound to Lead: The Changing Nature of American Power.[2]
+
+In this book he wrote: "when one country gets other countries to want what it wants might be called co-optive or soft power in contrast with the hard or command power of ordering others to do what it wants".[2] He further developed the concept in his 2004 book, Soft Power: The Means to Success in World Politics.[3]
+
+### Cultural Diplomacy
+
+Cultural diplomacy is a type of soft power that includes the "exchange of ideas, information, art, language and other aspects of culture among nations and their peoples in order to foster mutual understanding".[1] The purpose of cultural diplomacy is for the people of a foreign nation to develop an understanding of the nation's ideals and institutions in an effort to build broad support for economic and political objectives.[2] In essence "cultural diplomacy reveals the soul of a nation", which in turn creates influence.[3] Public diplomacy has played an important role in advancing national security objectives.[4][5][6][7][8] (Wikipedia)
+
+### Public Diplomacy
+
+In international relations, public diplomacy broadly speaking, is any of the various government-sponsored efforts aimed at communicating directly with foreign publics to establish a dialogue designed to inform and influence with the aim of building support for the state's strategic objectives. These also include propaganda.[1] As the international order has changed over the twentieth century, so has the practice of public diplomacy. Its practitioners use a variety of instruments and methods ranging from personal contact and media interviews to the internet and educational exchanges.
+
+
+## New Deal
+
+New Deal, domestic program of the administration of U.S. Pres. Franklin D. Roosevelt (FDR) between 1933 and 1939, which took action to bring about immediate economic relief as well as reforms in industry, agriculture, finance, waterpower, labour, and housing, vastly increasing the scope of the federal government’s activities. The term was taken from Roosevelt’s speech accepting the Democratic nomination for the presidency on July 2, 1932. Reacting to the ineffectiveness of the administration of Pres. Herbert Hoover in meeting the ravages of the Great Depression, American voters the following November overwhelmingly voted in favour of the Democratic promise of a “new deal” for the “forgotten man.” Opposed to the traditional American political philosophy of laissez-faire, the New Deal generally embraced the concept of a government-regulated economy aimed at achieving a balance between conflicting economic interests.
+
+
+## Destalinisatie
 
