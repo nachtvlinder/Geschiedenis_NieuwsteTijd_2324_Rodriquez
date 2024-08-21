@@ -1,7 +1,7 @@
 # done: les 1, 2
 # todo next: les 3
 
-section Het begin
+section Licht aan, revolutie in
 1701-1800: Europese Verlichting
 group USA
 1775-1783: Amerikaanse Revolutie
@@ -11,23 +11,70 @@ endGroup
 1789: Keerpunt tussen ancièn regime en moderniteit
 1789-1799: Franse Revolutie
 1791-1804: Haïtiaanse Revolutie
+endSection
+
+section Europa na de Grote Revoluties
+1799-1815: Napoleontisch Frankrijk
+1814-1815: Congres van Wenen
+1815-1871: Congressysteem
+group Afbrokkeling Congressysteem
+1822: Verona Congres
+1821-1829: Griekse Revolutie
+1830: Revolutiegolf (1)
+endGroup
+group Frankrijk
+1824-1830: Charles X (traditionele vorst)
+1830-1848: Louis-Philippe ("burgerlijke" vorst)
+endGroup
+1830-1831: Belgische Revolutie
+1848: Revolutiegolf (2)
+1853-1856: Krimoorlog
+1871: einde Congressysteem
+1873-1893: economische crisis en 2e industriële  revolutie
+group Wetenschappelijk Socialisme
+1848: Communistisch Manifest (Marx, Engels)
+1867: Das Kapital (Marx)
+1864-1872: 1ste Internationale
+1871: Commune van Parijs
+endGroup
+group Vrouwenbeweging (eerste golf feminisme)
+1842-1916: Isala Van Diest
+1846-1913: Marie Popelin
+1839-1905: Isabelle Gatti de Gamond
+1855-1943: Emilie Claeys
 endGroup
 
-1799-1815: Napoleontisch Frankrijk
+endSection
 
+section Elders in de wereld
+group Latijns-Amerika
+1809: eerste kreet om onafhankelijkheid
+1823: Monroe-doctrine
+endGroup
+endSection
 
 section Levens
 1712-1778: Rousseau
 1769-1821: Napoleon
-group Proto-feministen
-1748-1793: Olympe de Gouges
-1759-1797: Mary Wollstonecraft
-1797-1856: Manuela Sáenz
-endGroup
+1820-1910: Nightingale
 group Utopisch socialisten
 1760-1825: Saint-Simon
 1772-1837: Charles Fourier
 endGroup
 1785-1863: Jacob Grimm 
 1786-1859: Wilhelm Grimm
+endSection
+section Feministische Levens
+group Proto-feministen
+1748-1793: Olympe de Gouges
+1759-1797: Mary Wollstonecraft
+1797-1856: Manuela Sáenz
 endGroup
+group 1ste golf feministen
+1842-1916: Isala Van Diest
+1846-1913: Marie Popelin
+1839-1905: Isabelle Gatti de Gamond
+1855-1943: Emilie Claeys
+1819-1896: Clara Schumann
+endGroup
+endSection
