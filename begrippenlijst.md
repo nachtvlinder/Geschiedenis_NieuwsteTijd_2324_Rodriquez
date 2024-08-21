@@ -9,11 +9,17 @@ The Industrial Revolution as a historical concept has many shortcomings. A new c
 
 ## Westerse moderniteit (kenmerken)
 
-1. Secularisering en individualisering
+### 1. Secularisering en individualisering
 
-2. Economische reorganisatie en expansie
+Mindset van maakbaarheid van de wereld, ons leven, ons lot.
 
-3. Staatsvorming
+### 2. Economische reorganisatie en expansie
+
+Agrarische en industriële revoluties.
+
+### 3. Staatsvorming
+
+Laissez-faire politiek, staat en kerk scheiding, etc.
 
 
 ## Scheiding der machten
