@@ -52,13 +52,39 @@ section tweede helft 19de eeuw
 1871-1914: Belle Époque
 endSection
 
-section les guerres et la revolute 
+section War and Revolution 
 June 1914: moord op Franz Ferdinand
 1917: begin van het einde WWI
 group Russische Revolutie
 1905: eerste revoltes tegen Nicolas II
 1917: Oktoberrevolutie
 1917-1922: Burgeroorlog
+endGroup
+
+group Interbellum
+1919-1933: Weimar-republiek
+1920: Kapp putsch
+1922: Verdrag van Rapallo
+1925: Verdrag van Locarno
+group Sovjet-Unie
+1921: Lenin: Nieuw Economische Politiek
+1928: Stalin: Vijfjarenplan - Gosplan
+endGroup
+group Italië
+1922: Mars op Rome
+endGroup
+group Spanje
+1936-1939: Burgeroorlog
+1939-1975: bewind Franco
+endGroup
+endSection
+
+section Fascisme, WWII, impact, reconstruction
+group
+1933-1939: Het Derde Rijk
+September 1938: Conferentie van München
+March 1939: Annexatie Tsjechoslovakije
+August 1939: Hitler-Stalin pact
 endGroup
 endSection
 
@@ -75,9 +101,18 @@ group Afrika
 1884-1885: Conferentie van Barlijn
 1880-1913: Scramble for Africa
 endgroup
+group Turkije
+1908: Jonge Turken
+1923: °Turkije
+endGroup
+group Perzië/Iran 
+1925-1979: Pahlavi-dynastie
+1935: ° Modern Iran
+endGroup
 endSection
 
 section Levens
+group Pre-war Europe
 1712-1778: Rousseau
 1769-1821: Napoleon
 1820-1910: Nightingale
@@ -86,18 +121,17 @@ section Levens
 1859-1941: Wilhelm II (??)
 1882-1971: Igor Stravinsky
 1868-1918: Nicolas II (Tsaar van Rusland)
+1785-1863: Jacob Grimm 
+1786-1859: Wilhelm Grimm
 group Utopisch socialisten
 1760-1825: Saint-Simon
 1772-1837: Charles Fourier
 endGroup
-1785-1863: Jacob Grimm 
-1786-1859: Wilhelm Grimm
 group Anarchisten
 1809-1865: Proudhon
 1814-1876: Bakoenin
 endGroup
-endSection
-section Feministische Levens
+group Feministen
 group Proto-feministen
 1748-1793: Olympe de Gouges
 1759-1797: Mary Wollstonecraft
@@ -110,7 +144,22 @@ group 1ste golf feministen
 1855-1943: Emilie Claeys
 1819-1896: Clara Schumann
 endGroup
+endGroup
+endGroup
+group WWI, WWII and Post-war Europe
+1856-1924: Woodrow Wilson
+1881-1938: Kemal Atatürk
+1869-1948: Gandhi
+1870-1924: Lenin
+1879-1940: Trotsky
+1878-1953: Stalin
+1883-1945: Mussolini
+1892-1975: Franco
+1889-1945: Adolf Hitler
+endGroup
 endSection
+
+
 
 section Palestina en het Zionisme (voor WOII)
 group vroeg zionisme
@@ -139,7 +188,7 @@ group Peel Plan en Witboek
 1942: WZO Biltmore-programma
 endGroup
 endSection
-section Na WOII (Palestina)
+section Palestina na WOII
 29 november 1947: UN keurt UNSCOP plan goed (54 % grondgebied naar zionisten)
 14 may 1948: Ben Gurion roept staat Israel uit te Tel Aviv
 May 1948-1949: "Israel" in oorlog met buurlanden
@@ -158,5 +207,15 @@ group Golfoorlog en Oslo-akkoorden
 1992: Socialisten winnen verkiezing in "Israel"
 1993: Declaration of Principles
 1996-1999: Onderhandelingen tot globaal akkoord
+1994: Oslo 1 in Caïro getekend
+1995: Oslo 2 akkoor getekend
+group Oslo-proces in het slop
+1995: moord Rabin
+1996: relatieve overwinning Likoud/Netanyahu
+1999: regering Barak
+2001: verkiezing Likoud en Sharon
+2008-2009: Gaza-'interventie'
+2023-now: Gaza-oorlog
+endGroup
 endGroup
 endSection
