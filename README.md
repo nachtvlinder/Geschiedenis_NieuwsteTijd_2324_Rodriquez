@@ -11,7 +11,7 @@ history majors like they teach us geographers to make maps. Mindmaps are in Mark
 
 Insofar as I were to hold any rights over it, which I don't think since it is all based on professor
 Rodriguez' course content and some online research here and there (mainly Britannica and Wikipedia, sources otherwise mentioned inline)
-, I would only allow free use for study and non-profit purposes.
+, I would only allow free use for study and non-profit purposes. You may also pass this on to fellow students if there is any interest.
 
 _IMPORTANT DISCLAIMER: I think it's best to consider my notes, timelines and overviews as very incomplete. Remember also that it was
 created from one person's perspective and learning process. Always refer to official course materials for correct and complete information and content._
