@@ -6,6 +6,8 @@ and timelines, I decided to keep them synced over GitHub so I could potentially 
 future opportunity of sharing my timeline, mindmap or some notes with fellow students.
 
 If you want to edit the material for your own use, you can fork this repo or request the particular file you need. Or just copy and paste. 
+Timelines are made in MarkWhen, it's a very cool, free and open source means of making timelines. Seriously, they should teach this in 
+history majors like they teach us geographers to make maps. Mindmaps are in Markdown and I use a VS Codium extension that visualises that as a mindmap.
 
 Insofar as I were to hold any rights over it, which I don't think since it is all based on professor
 Rodriguez' course content and some online research here and there (mainly Britannica and Wikipedia, sources otherwise mentioned inline)
