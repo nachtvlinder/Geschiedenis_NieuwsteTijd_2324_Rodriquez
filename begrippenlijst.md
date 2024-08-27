@@ -432,6 +432,10 @@ Following the end of the Cold War, unearthed documents revealed substantial Sovi
 
 ## Cordon Sanitaire
 
+The seminal use of cordon sanitaire (French: [kɔʁdɔ̃ sanitɛʁ]; lit. 'sanitary cordon') as a metaphor for ideological containment referred to "the system of alliances instituted by France in interwar Europe that stretched from Finland to the Balkans" and which "completely ringed Germany and sealed off Russia from Western Europe, thereby isolating the two politically 'diseased' nations of Europe."
+
+French Prime Minister Georges Clemenceau is credited with coining the usage, when, in March 1919, he urged the newly independent border states (also called limitrophe states) that had formed in Eastern Europe after World War I to form a defensive union. Such a system would both isolate the Soviet Union from Western Europe, and thus quarantine the spread of communism, while simultaneously threatening Germany's eastern border in the event of war, guaranteeing French security. He called such an alliance a cordon sanitaire. France subsequently put this policy into practice by creating an alliance with Poland in 1921, followed by alliances with each member of the French-backed Little Entente alliance (Czechoslovakia, Yugoslavia, and Romania) starting in 1924. The alliance was further reinforced by bilateral treaties among Eastern European states such as the Polish–Romanian alliance. This is still probably the most famous use of the phrase, though it is sometimes used more generally to describe a set of buffer states that form a barrier against a larger, ideologically hostile state. (Wikipedia)
+
 ### ... In European geopolitics
 
 After Brest-Litovsk, Anglo-French policy turned sharply anti-Bolshevik, and Clemenceau and Foch worked to build a cordon sanitaire in eastern Europe against German and Bolshevik expansion alike. 

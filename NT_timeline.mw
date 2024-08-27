@@ -1,4 +1,5 @@
-# done: les 1-5(?) en palestina-les
+# done: les 1-5 en palestina-les
+# doing: les 6
 # todo: de rest van de lessen & file cleanup
 
 # important: i just found an older timeline file I started earlier, I've copy pasted the old file at the end of this one and will clean up the file soon
@@ -9,6 +10,7 @@ professor: Rodriquez
 subject: Geschiedenis van de Nieuwste Tijd 2023-24 KUL
 
 # Here starts the slides based section, work in progress (will merge the sections after going through the lectures)
+# De 10 lessen staan samen in thematisch chronologische vorm, Palestina-les data staan apart na de sectie Levens
 
 section Licht aan, revolutie in
 1701-1800: Europese Verlichting
@@ -94,8 +96,20 @@ group
 September 1938: Conferentie van München
 March 1939: Annexatie Tsjechoslovakije
 August 1939: Hitler-Stalin pact
+1939-1941: Triomf Asmogendheden
+1940-1944: (BE) regering in ballinschap
+1940-1944: (FR) Vichy-régime
+1942-1945: Militaire ommekeer (?)
+February 1945: The Allies finish the job (Dresden)
+April-May 1945: Slag om Berlijn
+August 1945: Hiroshima & Nagasaki
+1947: cesuur (aan te vullen met lesinhoud)
+1947-1938: Marshall-plan
 endGroup
 endSection
+
+section De Koude Oorlog
+1919: 
 
 section Elders in de wereld
 group Latijns-Amerika
@@ -165,6 +179,7 @@ group WWI, WWII and Post-war Europe
 1883-1945: Mussolini
 1892-1975: Franco
 1889-1945: Adolf Hitler
+1903-1950: George Orwell
 endGroup
 endSection
 
